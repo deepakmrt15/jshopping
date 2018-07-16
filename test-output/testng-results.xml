@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="256" started-at="2018-07-16T04:52:11Z" finished-at="2018-07-16T04:52:11Z">
+    <groups>
+      <group name="product">
+        <method signature="CreateProductTest.testCreateProducts([Lcom.ds.jshopping.model.Product;)[pri:0, instance:com.ds.jshopping.product.CreateProductTest@204f30ec]" name="testCreateProducts" class="com.ds.jshopping.product.CreateProductTest"/>
+      </group> <!-- product -->
+    </groups>
+    <test name="Default test" duration-ms="256" started-at="2018-07-16T04:52:11Z" finished-at="2018-07-16T04:52:11Z">
+      <class name="com.ds.jshopping.product.CreateProductTest">
+        <test-method status="PASS" signature="testCreateProducts([Lcom.ds.jshopping.model.Product;)[pri:0, instance:com.ds.jshopping.product.CreateProductTest@204f30ec]" name="testCreateProducts" duration-ms="239" started-at="2018-07-15T21:52:11Z" data-provider="createProduct" finished-at="2018-07-15T21:52:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Lcom.ds.jshopping.model.Product;@43301423]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateProducts -->
+      </class> <!-- com.ds.jshopping.product.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/model/CatalogInfo.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/controller/ProductController.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/model/request/CreateProductRequest.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/beer/BeerController.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/model/Product.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/service/ProductsResource.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/JShoppingApp.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/beer/Beer.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/beer/BeerCommandLineRunner.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/repository/CatalogInfoRepository.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/service/CatalogService.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/beer/BeerRepository.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/model/Catalog.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/service/ProductService.java
+/Users/deepaksharma/myproject/jshopping/server/src/main/java/com/ds/jshopping/repository/ProductRepository.java

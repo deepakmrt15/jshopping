@@ -1,0 +1,15 @@
+com/ds/jshopping/service/ProductService.class
+com/ds/jshopping/model/CatalogInfo.class
+com/ds/jshopping/model/Catalog.class
+com/ds/jshopping/beer/BeerRepository.class
+com/ds/jshopping/model/Product.class
+com/ds/jshopping/service/ProductsResource.class
+com/ds/jshopping/repository/CatalogInfoRepository.class
+com/ds/jshopping/beer/BeerController.class
+com/ds/jshopping/controller/ProductController.class
+com/ds/jshopping/beer/Beer.class
+com/ds/jshopping/repository/ProductRepository.class
+com/ds/jshopping/beer/BeerCommandLineRunner.class
+com/ds/jshopping/model/request/CreateProductRequest.class
+com/ds/jshopping/JShoppingApp.class
+com/ds/jshopping/service/CatalogService.class

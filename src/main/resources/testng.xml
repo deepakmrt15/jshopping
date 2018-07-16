@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="product" verbose="1" >
+
+    <test name="product">
+        <classes>
+            <class name="com.ds.jshopping.product.CreateProductTest"/>
+            <class name="com.ds.jshopping.TestConfig"/>
+        </classes>
+    </test>
+</suite>
